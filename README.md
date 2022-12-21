@@ -1,1 +1,1 @@
-hi friends
+this is repo dir
